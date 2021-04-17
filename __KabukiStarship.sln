@@ -11,8 +11,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScriptTek", "ScriptTek\__Sc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KabukiPress", "KabukiPress\__KabukiPress.vcxproj", "{FBCD022E-BC26-45A0-A7F8-CDE37C72B3E1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KabukiDB", "KabukiDB\__KabukiDB.vcxproj", "{FFE18DBF-3F1E-4E70-8B55-85145324FA65}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KabukiBenchmark.Script2", "KabukiBenchmarkScript2\__KabukiBenchmark.Script2.vcxproj", "{6D9009F1-1E03-4E76-A26E-23E57C711F07}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KabukiBenchmark", "KabukiBenchmark\__KabukiBenchmark.vcxproj", "{987D6F4C-7633-4D83-86B2-5CEB251DB198}"
@@ -32,6 +30,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IGeek.CardsWorld", "IGEEKCards\__IGeek.CardsWorld.vcxproj", "{685AADEC-4758-429A-93CD-DF62D126379E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IGeek", "IGeek\__IGeek.vcxproj", "{6094E54E-8DD4-40E0-89B0-D9E17A77B50C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IGeek.WikiWorld", "IGeekWikiWorld\__IGeek.WikiWorld.vcxproj", "{1F72749E-E9C7-4689-89CC-6374FDBC5F49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -73,14 +73,6 @@ Global
 		{FBCD022E-BC26-45A0-A7F8-CDE37C72B3E1}.Release|x64.Build.0 = Release|x64
 		{FBCD022E-BC26-45A0-A7F8-CDE37C72B3E1}.Release|x86.ActiveCfg = Release|Win32
 		{FBCD022E-BC26-45A0-A7F8-CDE37C72B3E1}.Release|x86.Build.0 = Release|Win32
-		{FFE18DBF-3F1E-4E70-8B55-85145324FA65}.Debug|x64.ActiveCfg = Debug|x64
-		{FFE18DBF-3F1E-4E70-8B55-85145324FA65}.Debug|x64.Build.0 = Debug|x64
-		{FFE18DBF-3F1E-4E70-8B55-85145324FA65}.Debug|x86.ActiveCfg = Debug|Win32
-		{FFE18DBF-3F1E-4E70-8B55-85145324FA65}.Debug|x86.Build.0 = Debug|Win32
-		{FFE18DBF-3F1E-4E70-8B55-85145324FA65}.Release|x64.ActiveCfg = Release|x64
-		{FFE18DBF-3F1E-4E70-8B55-85145324FA65}.Release|x64.Build.0 = Release|x64
-		{FFE18DBF-3F1E-4E70-8B55-85145324FA65}.Release|x86.ActiveCfg = Release|Win32
-		{FFE18DBF-3F1E-4E70-8B55-85145324FA65}.Release|x86.Build.0 = Release|Win32
 		{6D9009F1-1E03-4E76-A26E-23E57C711F07}.Debug|x64.ActiveCfg = Debug|x64
 		{6D9009F1-1E03-4E76-A26E-23E57C711F07}.Debug|x64.Build.0 = Debug|x64
 		{6D9009F1-1E03-4E76-A26E-23E57C711F07}.Debug|x86.ActiveCfg = Debug|Win32
@@ -161,6 +153,14 @@ Global
 		{6094E54E-8DD4-40E0-89B0-D9E17A77B50C}.Release|x64.Build.0 = Release|x64
 		{6094E54E-8DD4-40E0-89B0-D9E17A77B50C}.Release|x86.ActiveCfg = Release|Win32
 		{6094E54E-8DD4-40E0-89B0-D9E17A77B50C}.Release|x86.Build.0 = Release|Win32
+		{1F72749E-E9C7-4689-89CC-6374FDBC5F49}.Debug|x64.ActiveCfg = Debug|x64
+		{1F72749E-E9C7-4689-89CC-6374FDBC5F49}.Debug|x64.Build.0 = Debug|x64
+		{1F72749E-E9C7-4689-89CC-6374FDBC5F49}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F72749E-E9C7-4689-89CC-6374FDBC5F49}.Debug|x86.Build.0 = Debug|Win32
+		{1F72749E-E9C7-4689-89CC-6374FDBC5F49}.Release|x64.ActiveCfg = Release|x64
+		{1F72749E-E9C7-4689-89CC-6374FDBC5F49}.Release|x64.Build.0 = Release|x64
+		{1F72749E-E9C7-4689-89CC-6374FDBC5F49}.Release|x86.ActiveCfg = Release|Win32
+		{1F72749E-E9C7-4689-89CC-6374FDBC5F49}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

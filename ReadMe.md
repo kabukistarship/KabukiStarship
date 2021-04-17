@@ -4,7 +4,7 @@ Workspace for Kabuki Starship that contains administrative files and every Kabuk
 
 ## QuickStart
 
-1. Clone the git repo (you can download it at https://git-scm.com ).
+1. Clone the Kabuki Starship git repos recursively (you can download it at https://git-scm.com).
 
 ```
 git clone https://github.com/KabukiStarship/KabukiStarship --recursive
